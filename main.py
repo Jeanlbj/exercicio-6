@@ -43,4 +43,4 @@ if __name__ == "__main__":
     print(calculo3)
     print(calculo4)
 
-    print("Programa finalizado.")
+    print("\nPrograma finalizado.")
